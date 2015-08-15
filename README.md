@@ -8,7 +8,7 @@ What should I write about? Here's some general categories that I sometimes feel 
 
 <table>
 <tr>
-<td>
+<td valign="top">
 <ul>
 <li> Communication      
 <li> Time management    
@@ -21,7 +21,7 @@ What should I write about? Here's some general categories that I sometimes feel 
 <li> Dating  
 </ul>
 </td>
-<td>
+<td valign="top">
 <ul>
 <li> Relationship Rules                 
 <li> Opening up a long term relationship
