@@ -4,25 +4,37 @@ I've been in a polyamorous marriage for a couple years now. I don't consider mys
 
 Poly relationships are just relationships so please feel free to ask any relationship questions you might have, even if it doesn't pertain to polyamory -- It's my experience that most everything I've learned about poly relationships applies equally to monogamous relationships.
 
-What should I write about? Here's some general categories that I may be qualified to discuss:
+What should I write about? Here's some general categories that I sometimes feel qualified to discuss:
 
-* Communication
-* Time management
-* Sex positivity
-* Gender
-* Love
-* Casual Relationshps
-* Friendships
-* Poly Parenting
-* Dating
-* Relationship Rules
-* Opening up a long term relationship
-* Jealousy
-* Envy
-* Possessiveness
-* Insecurity
-* Fears
-* Anger
+<table>
+<tr>
+<td>
+<ul>
+<li> Communication      
+<li> Time management    
+<li> Sex positivity     
+<li> Gender             
+<li> Love               
+<li> Casual Relationshps
+<li> Friendships        
+<li> Poly Parenting     
+<li> Dating  
+</ul>
+</td>
+<td>
+<ul>
+<li> Relationship Rules                 
+<li> Opening up a long term relationship
+<li> Jealousy                           
+<li> Envy                               
+<li> Possessiveness                     
+<li> Insecurity                         
+<li> Fears                              
+<li> Anger                              
+</ul>
+</td>
+</tr>
+</table>
 
 Ask a question or bring up a topic you'd like me to blog about. It can be personal or general.
 
@@ -31,3 +43,5 @@ Ask a question or bring up a topic you'd like me to blog about. It can be person
 If you'd like to ask your question anonymously, send an email to [chris@eppsteins.net](mailto:chris@eppsteins.net) and I will keep your identity a secret.
 
 Answers will be posted to my [poly relationships blog](http://infiniteloveinfinitetime.ghost.io/).
+
+Depending on my time availability, if you need personal 1-on-1 support during a challenging time in your relationships, let me know and I'll be there for you if I can.
